@@ -2,7 +2,7 @@
 public class Helloworld {
 
     String name = "lzlcode";
-
+   //45555
     /*public  static void main(String [] args){
             //sout : 直接输出语句
             System.out.println();
