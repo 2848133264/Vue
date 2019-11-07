@@ -1,10 +1,13 @@
 
 public class Helloworld {
+
+    String name = "lzlcode";
+
     /*public  static void main(String [] args){
-        //sout : 直接输出语句
-        System.out.println();
-        //
-    }*/
+            //sout : 直接输出语句
+            System.out.println();
+            //
+        }*/
     //快加 psvm 主方法的首字母
     public static void main(String[] args) {
         System.out.println("Helloworld.main");
